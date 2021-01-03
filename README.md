@@ -3,7 +3,6 @@
 - 📫 How to reach me: get_info@bk.ru
 - 😄 Pronouns: "he" | "him"
 
----
 ![My github stats](https://github-readme-stats.vercel.app/api?username=rsh-12&show_icons=true)
 
 
