@@ -1,5 +1,4 @@
 # Hi there 👋
-- 🌱 I’m currently learning backend development and looking for a job
 - 📫 How to reach me: get_info@bk.ru
 - 🌛 Pronouns: "he" | "him"
 
