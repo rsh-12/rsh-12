@@ -7,3 +7,4 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsh-12&theme=dark"/>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/be313269-d5db-4072-a423-e34c4cfa6dff.svg)](https://wakatime.com/@be313269-d5db-4072-a423-e34c4cfa6dff)
